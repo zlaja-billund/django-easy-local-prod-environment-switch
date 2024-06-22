@@ -14,7 +14,7 @@ or
     python3 enviroment.py --development
 ```
 
-**For production**
+**For production:**
 ```
     python3 enviroment.py -p
 ```
