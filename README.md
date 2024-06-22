@@ -1,6 +1,6 @@
 # Django easy way to handle environments
 
-This project demonstrates a simple way to manage both local and production environments. It is built upon Fly.io and provides an easy method to switch between local development and production environments.
+This Django project demonstrates a simple way to manage both local and production environments. It is built upon Fly.io and provides an easy method to switch between local development and production environments.
 
 ## Usage
 To run the project, just type the following commands in the terminal:
